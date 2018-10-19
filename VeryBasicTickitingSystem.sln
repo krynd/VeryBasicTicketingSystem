@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBasicTickitingSystem", "VeryBasicTickitingSystem\VeryBasicTickitingSystem.csproj", "{3EA5BFB6-02B8-4788-A10F-E97C6536B43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA5BFB6-02B8-4788-A10F-E97C6536B43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5BFB6-02B8-4788-A10F-E97C6536B43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5BFB6-02B8-4788-A10F-E97C6536B43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5BFB6-02B8-4788-A10F-E97C6536B43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BFB9EF-D309-455A-92C6-959DB98C10C2}
+	EndGlobalSection
+EndGlobal
